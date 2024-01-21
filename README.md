@@ -20,8 +20,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-e6-7fBu6g8)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/testimonials-grid-section/)
 
 ## My process
 
